@@ -1,4 +1,4 @@
-# Evaluation script for activity-logger
+# Evaluation script for analytics-dashboard
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

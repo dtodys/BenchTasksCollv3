@@ -1,1 +1,1 @@
-Groundtruth workspace placeholder
+Groundtruth data for asset-optimizer

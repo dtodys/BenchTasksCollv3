@@ -1,1 +1,1 @@
-You are simulating a user.
+This is an user system prompt for booking-system
