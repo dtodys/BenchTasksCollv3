@@ -1,1 +1,0 @@
-Groundtruth workspace placeholder
